@@ -8,5 +8,10 @@
 <body>
     <h1>Coba Git Remote 2</h1>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, asperiores sit minima iste, veritatis accusamus nesciunt, rem atque voluptate quidem unde dolorum repellendus reprehenderit suscipit! Veritatis, odio nihil! Eaque, odit!</p>
+    <ul>
+        <li>list 1</li>
+        <li>list 2</li>
+        <li>list 3</li>
+    </ul>
 </body>
 </html>
